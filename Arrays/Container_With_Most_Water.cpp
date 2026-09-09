@@ -1,3 +1,8 @@
+// LeetCode 11 - Container With Most Water
+// Approach: Two Pointer
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 class Solution {
 public:
     int maxArea(vector<int>& height) {
